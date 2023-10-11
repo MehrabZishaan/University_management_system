@@ -2,7 +2,7 @@
 
 This project is a University Management System implemented using React for the frontend, Node.js for the backend, and Firebase for authentication. It allows students and administrators to manage courses, enrollments, and other aspects of a university system.
 
-![Project Preview](insert_image_url_here)
+![Project Preview](https://github.com/MehrabZishaan/University_management_system/blob/main/Screenshot%20(136).png)
 
 ## Live Demo
 
