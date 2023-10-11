@@ -31,11 +31,13 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    git clone https://github.com/your-username/university-management.git
    cd university-management
+   
 1- Install dependencies for the frontend and backend:
-cd frontend
-npm install
-cd ../backend
-npm install
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
 
 2- Set up Firebase Authentication and Firestore:
 
@@ -43,10 +45,11 @@ Create a Firebase project and set up Firebase Authentication.
 Configure Firebase in your frontend and backend code.
 
 3- Start the frontend and backend servers:
-cd frontend
-npm start
-cd backend
-npm start
+   ```bash
+   cd frontend
+   npm start
+   cd backend
+   npm start
 
 4- Open your browser and navigate to http://localhost:3000 to access the application.
 
