@@ -32,19 +32,24 @@ To get a local copy of the project up and running, follow these steps:
    git clone https://github.com/your-username/university-management.git
    cd university-management
    
-1- Install dependencies for the frontend and backend:
+## Installation and Setup
+
+1. **Install Dependencies for the Frontend and Backend:**
+
    ```bash
    cd frontend
    npm install
    cd ../backend
    npm install
 
-2- Set up Firebase Authentication and Firestore:
 
-Create a Firebase project and set up Firebase Authentication.
-Configure Firebase in your frontend and backend code.
+2. **Set up Firebase Authentication and Firestore:**
+   - Create a Firebase project and set up Firebase Authentication.
+   - Configure Firebase in your frontend and backend code.
 
-3- Start the frontend and backend servers:
+
+3. **Start the Frontend and Backend Servers:**
+
    ```bash
    cd frontend
    npm start
